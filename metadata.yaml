@@ -1,5 +1,8 @@
 _repo: L-ensorcelee_64674
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64674-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbey d'Aurevilly, J. (Jules)
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Amédée_Barbey_d'Aurevilly
     - https://fr.wikipedia.org/wiki/Jules_Barbey_d%27Aurevilly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64674#L-ensorcelee
 gutenberg_issued: '2021-03-02'
 gutenberg_type: Text
 identifiers:
